@@ -3,4 +3,4 @@
 
  Repositório criado durante aula do curso de Git e GitHub com o Professor Guanabara.
  
- Correção da grafia da palvra "GitHub" (escrito na linha 2) diretamente pelo site.
+ Correção da grafia da palavra "GitHub" (escrita na linha 2) diretamente pelo site.
